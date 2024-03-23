@@ -1,0 +1,5 @@
+# Ignore service account key file
+server/src/config/serviceAccountKey.json
+server/src/config/config.ts
+client/src/config/config.ts
+server/node_modules
